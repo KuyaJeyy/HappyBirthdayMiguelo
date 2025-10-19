@@ -1,4 +1,4 @@
-#cake.css
+
 
 @import url(https://fonts.googleapis.com/css?family=Lato:300italic);
 @import url('https://fonts.googleapis.com/css?family=Titan+One');
@@ -11,7 +11,7 @@ body {
 }
 
 body {
-  background: #d54d56;
+  background-image: url(Background.jpg);
 }
 
 #cake {
